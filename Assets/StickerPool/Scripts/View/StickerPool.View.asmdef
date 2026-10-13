@@ -1,0 +1,21 @@
+{
+    "name": "StickerPool.View",
+    "rootNamespace": "StickerPool.View",
+    "references": [
+        "StickerPool.Model",
+        "StickerPool.Data",
+        "Unity.Localization",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "PrimeTween.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

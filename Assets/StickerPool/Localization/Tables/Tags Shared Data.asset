@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Tags Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: Tags
+  m_TableCollectionNameGuidString: 140059416559e984d8cb04342c7f51bb
+  m_Entries:
+  - m_Id: 473726976
+    m_Key: cat.color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892800
+    m_Key: cat.group
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892801
+    m_Key: cat.place
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892802
+    m_Key: cat.funny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892803
+    m_Key: cat.material
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892804
+    m_Key: tag.red
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892805
+    m_Key: tag.orange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892806
+    m_Key: tag.yellow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892807
+    m_Key: tag.green
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892808
+    m_Key: tag.blue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892809
+    m_Key: tag.brown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892810
+    m_Key: tag.food
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892811
+    m_Key: tag.animal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892812
+    m_Key: tag.toy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892813
+    m_Key: tag.clothing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892814
+    m_Key: tag.vehicle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892815
+    m_Key: tag.household
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892816
+    m_Key: tag.kitchen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892817
+    m_Key: tag.sea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892818
+    m_Key: tag.sky
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892819
+    m_Key: tag.garden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892820
+    m_Key: tag.can_fly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892821
+    m_Key: tag.loud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892822
+    m_Key: tag.wood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892823
+    m_Key: tag.metal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892824
+    m_Key: tag.fabric
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892825
+    m_Key: tag.glass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892826
+    m_Key: tag.rubber
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4661502993020223870
+  references:
+    version: 2
+    RefIds:
+    - rid: 4661502993020223870
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1791883541050

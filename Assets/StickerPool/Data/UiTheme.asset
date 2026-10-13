@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f173a05e004942f4ca5981f2ef540ba7, type: 3}
+  m_Name: UiTheme
+  m_EditorClassIdentifier: StickerPool.Data::StickerPool.Data.UiTheme
+  desk: {r: 0.9647059, g: 0.92156863, b: 0.8666667, a: 1}
+  deskShade: {r: 0.9098039, g: 0.827451, b: 0.70980394, a: 1}
+  paper: {r: 1, g: 0.99215686, b: 0.972549, a: 1}
+  paperShade: {r: 0.94509804, g: 0.9019608, b: 0.8392157, a: 1}
+  ink: {r: 0.23137255, g: 0.18431373, b: 0.16470589, a: 1}
+  inkSoft: {r: 0.47843137, g: 0.41568628, b: 0.3764706, a: 1}
+  honey: {r: 0.9490196, g: 0.70980394, b: 0.26666668, a: 1}
+  coral: {r: 0.93333334, g: 0.48235294, b: 0.42352942, a: 1}
+  sage: {r: 0.49803922, g: 0.70980394, b: 0.6039216, a: 1}
+  white: {r: 1, g: 1, b: 1, a: 1}
+  dim: {r: 0.16470589, g: 0.12156863, b: 0.101960786, a: 1}
+  minHitSize: 128
+  minTextSize: 32
+  pressedScale: 0.94
+  pressDuration: 0.08
+  releaseDuration: 0.18
+  popupOpenDuration: 0.3
+  popupCloseDuration: 0.18
+  popupOpenScale: 0.85
+  popupCloseScale: 0.92
+  popupDimAlpha: 0.55
+  curtainCoverDuration: 0.38
+  curtainRevealDuration: 0.42
+  lowMovesPulseDuration: 0.8
+  lowMovesPulseScale: 0.06

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc1feb14c8f3e5847891beb8fcabbfd8, type: 3}
+  m_Name: Tag_can_fly
+  m_EditorClassIdentifier: StickerPool.Data::StickerPool.Data.TagData
+  id: can_fly
+  category: {fileID: 11400000, guid: 4bff2421fd3c6074a8541085c002280b, type: 2}
+  label:
+    m_TableReference:
+      m_TableCollectionName: GUID:140059416559e984d8cb04342c7f51bb
+    m_TableEntryReference:
+      m_KeyId: 498892820
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  rollCallClip: {fileID: 8300000, guid: f7f5600813064fe4db214cac66874446, type: 3}
+  tapeColor: {r: 0.78039217, g: 0.72156864, b: 0.91764706, a: 1}
+  references:
+    version: 2
+    RefIds: []

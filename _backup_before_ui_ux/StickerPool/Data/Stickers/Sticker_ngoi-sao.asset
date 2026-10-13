@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba23c62eecb50db408223b9a65bfa18d, type: 3}
+  m_Name: Sticker_ngoi-sao
+  m_EditorClassIdentifier: StickerPool.Data::StickerPool.Data.StickerData
+  id: ngoi-sao
+  displayName:
+    m_TableReference:
+      m_TableCollectionName: GUID:5161016c35acdea4cbee5ab3488469ab
+    m_TableEntryReference:
+      m_KeyId: 452755472
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  prefab: {fileID: 6643298482010240749, guid: 6b8195c9276b5304187b85eab9553bfe, type: 3}
+  colorTag: {fileID: 11400000, guid: ba531ea4353ca004cb342728de5ce4ae, type: 2}
+  otherTags:
+  - {fileID: 11400000, guid: aad6b6dcc9c8d6745ba774e6d6be3ad9, type: 2}
+  references:
+    version: 2
+    RefIds: []

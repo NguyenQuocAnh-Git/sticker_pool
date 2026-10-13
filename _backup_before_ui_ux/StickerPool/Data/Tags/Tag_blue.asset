@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc1feb14c8f3e5847891beb8fcabbfd8, type: 3}
+  m_Name: Tag_blue
+  m_EditorClassIdentifier: StickerPool.Data::StickerPool.Data.TagData
+  id: blue
+  category: {fileID: 11400000, guid: 54388377b1d3e994393834fbbedb4e77, type: 2}
+  label:
+    m_TableReference:
+      m_TableCollectionName: GUID:140059416559e984d8cb04342c7f51bb
+    m_TableEntryReference:
+      m_KeyId: 498892808
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  rollCallClip: {fileID: 8300000, guid: 6dd38226649679c4590c20dd1ad2fbff, type: 3}
+  tapeColor: {r: 0.11764706, g: 0.53333336, b: 0.8980392, a: 1}
+  references:
+    version: 2
+    RefIds: []

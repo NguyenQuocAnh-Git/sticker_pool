@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba23c62eecb50db408223b9a65bfa18d, type: 3}
+  m_Name: Sticker_gau-bong
+  m_EditorClassIdentifier: StickerPool.Data::StickerPool.Data.StickerData
+  id: gau-bong
+  displayName:
+    m_TableReference:
+      m_TableCollectionName: GUID:5161016c35acdea4cbee5ab3488469ab
+    m_TableEntryReference:
+      m_KeyId: 452755495
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  prefab: {fileID: 7151324532349316402, guid: ad59ff90fb1ea974687c4dee30222029, type: 3}
+  colorTag: {fileID: 11400000, guid: 19a2d829c7d83d5459893ca1a145790d, type: 2}
+  otherTags:
+  - {fileID: 11400000, guid: 67d649f0e681d144e91b54a2d7df1f6e, type: 2}
+  - {fileID: 11400000, guid: 0541c0a2700f8da43b9ab1d563a05872, type: 2}
+  references:
+    version: 2
+    RefIds: []

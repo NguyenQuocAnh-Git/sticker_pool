@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba23c62eecb50db408223b9a65bfa18d, type: 3}
+  m_Name: Sticker_ca-rot
+  m_EditorClassIdentifier: StickerPool.Data::StickerPool.Data.StickerData
+  id: ca-rot
+  displayName:
+    m_TableReference:
+      m_TableCollectionName: GUID:5161016c35acdea4cbee5ab3488469ab
+    m_TableEntryReference:
+      m_KeyId: 452755464
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  prefab: {fileID: 5900683270684173361, guid: 9da14af70d70fe249829607e55859bb3, type: 3}
+  colorTag: {fileID: 11400000, guid: 23fe3c424457d1d4288a3521622c9332, type: 2}
+  otherTags:
+  - {fileID: 11400000, guid: 9953bd5c3d030fb44a4998e1a040f6a8, type: 2}
+  - {fileID: 11400000, guid: 0c478a5c42ccab44e9b168eed9c7a762, type: 2}
+  references:
+    version: 2
+    RefIds: []

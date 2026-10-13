@@ -1,0 +1,61 @@
+{
+  "categories": {
+    "mau": {
+      "label": "màu",
+      "tags": [
+        "Đỏ",
+        "Cam",
+        "Vàng",
+        "Xanh lá",
+        "Xanh dương",
+        "Nâu"
+      ]
+    },
+    "nhom": {
+      "label": "nhóm",
+      "tags": [
+        "Đồ ăn",
+        "Con vật",
+        "Đồ chơi",
+        "Quần áo",
+        "Xe cộ",
+        "Đồ dùng"
+      ]
+    },
+    "noi": {
+      "label": "nơi chốn",
+      "tags": [
+        "Nhà bếp",
+        "Biển",
+        "Bầu trời",
+        "Khu vườn"
+      ]
+    },
+    "vui": {
+      "label": "vui nhộn",
+      "tags": [
+        "Biết bay",
+        "Kêu to"
+      ]
+    },
+    "chat": {
+      "label": "chất liệu",
+      "tags": [
+        "Gỗ",
+        "Kim loại",
+        "Vải",
+        "Thủy tinh",
+        "Cao su"
+      ]
+    }
+  },
+  "color_hex": {
+    "Đỏ": "#e5383b",
+    "Cam": "#f48c06",
+    "Vàng": "#ffc300",
+    "Xanh lá": "#38b000",
+    "Xanh dương": "#1e88e5",
+    "Nâu": "#8d5a3b"
+  },
+  "note": "chat (chất liệu) chỉ dùng làm texture ở level 1-10; mở thành từ chọn được từ level 11. Cao su chỉ còn là texture, không dùng làm từ."
+}

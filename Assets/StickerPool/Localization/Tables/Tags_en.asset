@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tags_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 140059416559e984d8cb04342c7f51bb, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 473726976
+    m_Localized: Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892800
+    m_Localized: Group
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892801
+    m_Localized: Place
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892802
+    m_Localized: Funny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892803
+    m_Localized: Material
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892804
+    m_Localized: Red
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892805
+    m_Localized: Orange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892806
+    m_Localized: Yellow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892807
+    m_Localized: Green
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892808
+    m_Localized: Blue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892809
+    m_Localized: Brown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892810
+    m_Localized: Food
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892811
+    m_Localized: Animals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892812
+    m_Localized: Toys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892813
+    m_Localized: Clothing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892814
+    m_Localized: Vehicles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892815
+    m_Localized: Household
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892816
+    m_Localized: Kitchen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892817
+    m_Localized: Sea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892818
+    m_Localized: Sky
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892819
+    m_Localized: Garden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892820
+    m_Localized: Can fly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892821
+    m_Localized: Loud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892822
+    m_Localized: Wood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892823
+    m_Localized: Metal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892824
+    m_Localized: Fabric
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892825
+    m_Localized: Glass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498892826
+    m_Localized: Rubber
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

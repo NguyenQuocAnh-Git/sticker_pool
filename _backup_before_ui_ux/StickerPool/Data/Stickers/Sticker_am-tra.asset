@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba23c62eecb50db408223b9a65bfa18d, type: 3}
+  m_Name: Sticker_am-tra
+  m_EditorClassIdentifier: StickerPool.Data::StickerPool.Data.StickerData
+  id: am-tra
+  displayName:
+    m_TableReference:
+      m_TableCollectionName: GUID:5161016c35acdea4cbee5ab3488469ab
+    m_TableEntryReference:
+      m_KeyId: 452755494
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  prefab: {fileID: 588932339172114752, guid: 37caca7894d881f43940023f309417ff, type: 3}
+  colorTag: {fileID: 11400000, guid: 5ae186c44c4eb804190b603f29223cf9, type: 2}
+  otherTags:
+  - {fileID: 11400000, guid: 10b1ff03e13149643920d3e654b73cba, type: 2}
+  - {fileID: 11400000, guid: 943b39b10b18daa4d96f2a420d74904c, type: 2}
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba23c62eecb50db408223b9a65bfa18d, type: 3}
+  m_Name: Sticker_dau-tay
+  m_EditorClassIdentifier: StickerPool.Data::StickerPool.Data.StickerData
+  id: dau-tay
+  displayName:
+    m_TableReference:
+      m_TableCollectionName: GUID:5161016c35acdea4cbee5ab3488469ab
+    m_TableEntryReference:
+      m_KeyId: 452755456
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  prefab: {fileID: 412627175613033572, guid: 9e3df8944f69d9845815b4ee10ee01be, type: 3}
+  colorTag: {fileID: 11400000, guid: 615311e8a79be664fafd4672af25f884, type: 2}
+  otherTags:
+  - {fileID: 11400000, guid: 9953bd5c3d030fb44a4998e1a040f6a8, type: 2}
+  references:
+    version: 2
+    RefIds: []

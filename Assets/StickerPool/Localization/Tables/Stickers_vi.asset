@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Stickers_vi
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: 5161016c35acdea4cbee5ab3488469ab, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 427589632
+    m_Localized: "T\xE1o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755456
+    m_Localized: "D\xE2u t\xE2y"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755457
+    m_Localized: "\xD4 t\xF4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755458
+    m_Localized: "B\xF3ng bay"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755459
+    m_Localized: "B\u1ECD r\xF9a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755460
+    m_Localized: Cua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755461
+    m_Localized: "Tr\u1ED1ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755462
+    m_Localized: "Kh\u0103n len"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755463
+    m_Localized: "Qu\u1EA3 cam"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755464
+    m_Localized: "C\xE0 r\u1ED1t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755465
+    m_Localized: "B\xF3ng r\u1ED5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755466
+    m_Localized: "C\xE1o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755467
+    m_Localized: "C\xE1 h\u1EC1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755468
+    m_Localized: "Chi\u1EBFc d\xE9p"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755469
+    m_Localized: "C\xE1i c\xF2i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755470
+    m_Localized: "T\u1EA5t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755471
+    m_Localized: "Chu\u1ED1i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755472
+    m_Localized: "Ng\xF4i sao"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755473
+    m_Localized: "M\u1EB7t tr\u1EDDi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755474
+    m_Localized: "M\u1EB7t tr\u0103ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755475
+    m_Localized: "Ch\xECa kh\xF3a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755476
+    m_Localized: "V\u1ECBt con"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755477
+    m_Localized: "K\xE8n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755478
+    m_Localized: "B\xF3ng \u0111\xE8n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755479
+    m_Localized: Con ong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755480
+    m_Localized: "\u1EBEch"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755481
+    m_Localized: "D\u01B0a leo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755482
+    m_Localized: "Qu\u1EA3 l\xEA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755483
+    m_Localized: "\u1EE6ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755484
+    m_Localized: "Con r\xF9a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755485
+    m_Localized: "Xe bu\xFDt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755486
+    m_Localized: "Con v\u1EB9t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755487
+    m_Localized: "C\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755488
+    m_Localized: "\xC1o thun"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755489
+    m_Localized: "Thuy\u1EC1n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755490
+    m_Localized: Chim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755491
+    m_Localized: "C\u1ED1c th\u1EE7y tinh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755492
+    m_Localized: "B\u01B0\u1EDBm"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755493
+    m_Localized: "M\xE1y bay"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755494
+    m_Localized: "\u1EA4m tr\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755495
+    m_Localized: "G\u1EA5u b\xF4ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755496
+    m_Localized: "Gh\u1EBF g\u1ED7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755497
+    m_Localized: "Kh\xFAc g\u1ED7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755498
+    m_Localized: "\u0110\xE0n guitar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755499
+    m_Localized: "B\xE1nh quy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755500
+    m_Localized: "B\xE1nh m\xEC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755501
+    m_Localized: "\u0110\u1ED3ng h\u1ED3 b\xE1o th\u1EE9c"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755502
+    m_Localized: "Con ch\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755503
+    m_Localized: "Mu\xF4i g\u1ED7"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

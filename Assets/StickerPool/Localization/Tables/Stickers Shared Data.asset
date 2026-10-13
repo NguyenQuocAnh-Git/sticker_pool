@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Stickers Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: Stickers
+  m_TableCollectionNameGuidString: 5161016c35acdea4cbee5ab3488469ab
+  m_Entries:
+  - m_Id: 427589632
+    m_Key: tao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755456
+    m_Key: dau-tay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755457
+    m_Key: o-to
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755458
+    m_Key: bong-bay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755459
+    m_Key: bo-rua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755460
+    m_Key: cua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755461
+    m_Key: trong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755462
+    m_Key: khan-len
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755463
+    m_Key: qua-cam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755464
+    m_Key: ca-rot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755465
+    m_Key: bong-ro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755466
+    m_Key: cao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755467
+    m_Key: ca-he
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755468
+    m_Key: chiec-dep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755469
+    m_Key: cai-coi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755470
+    m_Key: tat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755471
+    m_Key: chuoi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755472
+    m_Key: ngoi-sao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755473
+    m_Key: mat-troi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755474
+    m_Key: mat-trang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755475
+    m_Key: chia-khoa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755476
+    m_Key: vit-con
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755477
+    m_Key: ken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755478
+    m_Key: bong-den
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755479
+    m_Key: con-ong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755480
+    m_Key: ech
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755481
+    m_Key: dua-leo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755482
+    m_Key: qua-le
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755483
+    m_Key: ung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755484
+    m_Key: con-rua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755485
+    m_Key: xe-buyt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755486
+    m_Key: con-vet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755487
+    m_Key: ca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755488
+    m_Key: ao-thun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755489
+    m_Key: thuyen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755490
+    m_Key: chim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755491
+    m_Key: coc-thuy-tinh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755492
+    m_Key: buom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755493
+    m_Key: may-bay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755494
+    m_Key: am-tra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755495
+    m_Key: gau-bong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755496
+    m_Key: ghe-go
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755497
+    m_Key: khuc-go
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755498
+    m_Key: dan-guitar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755499
+    m_Key: banh-quy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755500
+    m_Key: banh-mi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755501
+    m_Key: dong-ho-bao-thuc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755502
+    m_Key: con-cho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755503
+    m_Key: muoi-go
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4661502993020223872
+  references:
+    version: 2
+    RefIds:
+    - rid: 4661502993020223872
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1791883541280

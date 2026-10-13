@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_vi
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: 3a2e26b1136c95c45b62b7dbc61a19ae, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 4661502993020223874
+  m_TableData:
+  - m_Id: 1379696641
+    m_Localized: "M\xE0n ti\u1EBFp"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1379696642
+    m_Localized: "Ch\u01A1i l\u1EA1i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1379696643
+    m_Localized: "Th\u1EED l\u1EA1i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1379696644
+    m_Localized: "S\u1EA1ch h\u0169!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1379696645
+    m_Localized: "S\u1EA1ch h\u1EBFt c\xE1c h\u0169!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1379696646
+    m_Localized: "D\xF9ng {0}/{1} l\u01B0\u1EE3t."
+    m_Metadata:
+      m_Items:
+      - rid: 4661502993020223874
+  - m_Id: 1379696647
+    m_Localized: "D\u01B0 {0} l\u01B0\u1EE3t."
+    m_Metadata:
+      m_Items:
+      - rid: 4661502993020223874
+  - m_Id: 1379696648
+    m_Localized: "G\u1EA7n \u0111\u01B0\u1EE3c r\u1ED3i!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1379696649
+    m_Localized: "C\xF2n {0} sticker trong h\u0169. Th\u1EED ch\u1ECDn t\u1EEB qu\xE9t
+      \u0111\u01B0\u1EE3c nhi\u1EC1u sticker h\u01A1n m\u1ED7i l\u01B0\u1EE3t."
+    m_Metadata:
+      m_Items:
+      - rid: 4661502993020223874
+  - m_Id: 1379696650
+    m_Localized: '<b>{0}</b>: bay {1} sticker.'
+    m_Metadata:
+      m_Items:
+      - rid: 4661502993020223874
+  - m_Id: 1379696651
+    m_Localized: "\u0110\xE3 \u0111\u1ED5i b\u1ED9 t\u1EEB."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1379696652
+    m_Localized: "Tuy\u1EC7t!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1379696653
+    m_Localized: "Qu\xE1 \u0111\u1EC9nh!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078729474048
+    m_Localized: "M\xE0n {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194304
+    m_Localized: "L\u01AF\u1EE2T"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194305
+    m_Localized: "C\xF2n {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194306
+    m_Localized: "\u0110\u1ED5i t\u1EEB"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194307
+    m_Localized: "C\xE0i \u0111\u1EB7t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194308
+    m_Localized: "\xC2m thanh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194309
+    m_Localized: Rung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194310
+    m_Localized: "Gi\u1EA3m chuy\u1EC3n \u0111\u1ED9ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194311
+    m_Localized: "Ng\xF4n ng\u1EEF"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194312
+    m_Localized: "Ch\u01A1i l\u1EA1i m\xE0n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194313
+    m_Localized: "V\u1EC1 menu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194314
+    m_Localized: "Ch\u01A1i l\u1EA1i m\xE0n n\xE0y?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194315
+    m_Localized: "C\xE1c l\u01B0\u1EE3t \u0111\xE3 ch\u01A1i trong m\xE0n n\xE0y
+      s\u1EBD m\u1EA5t."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194316
+    m_Localized: "V\u1EC1 menu ch\xEDnh?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194317
+    m_Localized: "Ti\u1EBFn tr\xECnh trong m\xE0n n\xE0y s\u1EBD m\u1EA5t."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194318
+    m_Localized: "\u0110\u1ED3ng \xFD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194319
+    m_Localized: "Ch\u01A1i ti\u1EBFp"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194320
+    m_Localized: "Ch\u01A1i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194321
+    m_Localized: "Ti\u1EBFp t\u1EE5c \xB7 M\xE0n {0}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194322
+    m_Localized: "C\xE1c m\xE0n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194323
+    m_Localized: "S\u1EAFp c\xF3 th\xEAm m\xE0n m\u1EDBi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49078788194324
+    m_Localized: "{0} sticker \xB7 {1} l\u01B0\u1EE3t"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 4661502993020223874
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 1379696646
+        - id: 1379696647
+        - id: 1379696649
+        - id: 1379696650

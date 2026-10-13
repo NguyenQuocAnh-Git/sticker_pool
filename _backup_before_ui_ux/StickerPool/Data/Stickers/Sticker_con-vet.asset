@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba23c62eecb50db408223b9a65bfa18d, type: 3}
+  m_Name: Sticker_con-vet
+  m_EditorClassIdentifier: StickerPool.Data::StickerPool.Data.StickerData
+  id: con-vet
+  displayName:
+    m_TableReference:
+      m_TableCollectionName: GUID:5161016c35acdea4cbee5ab3488469ab
+    m_TableEntryReference:
+      m_KeyId: 452755486
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  prefab: {fileID: 6276152147306282125, guid: 9ad8cbc45ac6eac4a8ae38e5191dbbfd, type: 3}
+  colorTag: {fileID: 11400000, guid: 7d6ba1e9d0434dd41ab4b4ec1ed3bce2, type: 2}
+  otherTags:
+  - {fileID: 11400000, guid: b96b29694c605ee48b352fb712d59c4e, type: 2}
+  - {fileID: 11400000, guid: aad6b6dcc9c8d6745ba774e6d6be3ad9, type: 2}
+  - {fileID: 11400000, guid: de4f485f089e0b64e9364891f9979417, type: 2}
+  - {fileID: 11400000, guid: 048215cd7544036448dc3bcf5ff87ac1, type: 2}
+  references:
+    version: 2
+    RefIds: []

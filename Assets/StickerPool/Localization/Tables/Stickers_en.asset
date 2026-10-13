@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Stickers_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 5161016c35acdea4cbee5ab3488469ab, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 427589632
+    m_Localized: Apple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755456
+    m_Localized: Strawberry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755457
+    m_Localized: Car
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755458
+    m_Localized: Balloon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755459
+    m_Localized: Ladybug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755460
+    m_Localized: Crab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755461
+    m_Localized: Drum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755462
+    m_Localized: Scarf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755463
+    m_Localized: Orange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755464
+    m_Localized: Carrot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755465
+    m_Localized: Basketball
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755466
+    m_Localized: Fox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755467
+    m_Localized: Clownfish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755468
+    m_Localized: Slipper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755469
+    m_Localized: Whistle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755470
+    m_Localized: Sock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755471
+    m_Localized: Banana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755472
+    m_Localized: Star
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755473
+    m_Localized: Sun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755474
+    m_Localized: Moon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755475
+    m_Localized: Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755476
+    m_Localized: Duckling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755477
+    m_Localized: Trumpet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755478
+    m_Localized: Light Bulb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755479
+    m_Localized: Bee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755480
+    m_Localized: Frog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755481
+    m_Localized: Cucumber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755482
+    m_Localized: Pear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755483
+    m_Localized: Rain Boot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755484
+    m_Localized: Turtle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755485
+    m_Localized: Bus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755486
+    m_Localized: Parrot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755487
+    m_Localized: Fish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755488
+    m_Localized: T-Shirt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755489
+    m_Localized: Boat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755490
+    m_Localized: Bird
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755491
+    m_Localized: Glass Cup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755492
+    m_Localized: Butterfly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755493
+    m_Localized: Airplane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755494
+    m_Localized: Teapot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755495
+    m_Localized: Teddy Bear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755496
+    m_Localized: Wooden Chair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755497
+    m_Localized: Log
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755498
+    m_Localized: Guitar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755499
+    m_Localized: Cookie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755500
+    m_Localized: Bread
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755501
+    m_Localized: Alarm Clock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755502
+    m_Localized: Dog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452755503
+    m_Localized: Wooden Spoon
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

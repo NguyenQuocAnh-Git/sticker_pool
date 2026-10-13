@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba23c62eecb50db408223b9a65bfa18d, type: 3}
+  m_Name: Sticker_con-rua
+  m_EditorClassIdentifier: StickerPool.Data::StickerPool.Data.StickerData
+  id: con-rua
+  displayName:
+    m_TableReference:
+      m_TableCollectionName: GUID:5161016c35acdea4cbee5ab3488469ab
+    m_TableEntryReference:
+      m_KeyId: 452755484
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  prefab: {fileID: 2719713684298729608, guid: 9c26a75a0eb0fed49ba73cb6460d5713, type: 3}
+  colorTag: {fileID: 11400000, guid: 7d6ba1e9d0434dd41ab4b4ec1ed3bce2, type: 2}
+  otherTags:
+  - {fileID: 11400000, guid: b96b29694c605ee48b352fb712d59c4e, type: 2}
+  - {fileID: 11400000, guid: 9b1e43be3766cf74694afecac0865239, type: 2}
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Hints_vi
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: 4d3b9e09c1fe39949b35f8dbd9d3551f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 427589632
+    m_Localized: "Ch\u1ECDn m\u1ED9t m\xE0u tr\xEAn b\u0103ng keo. M\u1ECDi sticker
+      m\xE0u \u0111\xF3 s\u1EBD bay kh\u1ECFi h\u0169."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561152
+    m_Localized: "M\u1ED7i l\u1EA7n ch\u01A1i l\u1EA1i, h\u0169 v\xE0 c\xE1c l\u1EF1a
+      ch\u1ECDn s\u1EBD \u0111\u01B0\u1EE3c x\xE1o kh\xE1c \u0111i."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561153
+    m_Localized: "Th\xEAm m\u1ED9t m\xE0u. Ch\u1ECDn m\xE0u c\xF3 nhi\u1EC1u sticker
+      nh\u1EA5t \u0111\u1EC3 qu\xE9t th\u1EADt nhi\u1EC1u."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561154
+    m_Localized: "M\u1EDF kh\xF3a <b>nh\xF3m</b>: \u0111\u1ED3 \u0103n, con v\u1EADt,
+      \u0111\u1ED3 ch\u01A1i."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561155
+    m_Localized: "M\u1ED9t sticker v\u1EEBa c\xF3 m\xE0u v\u1EEBa c\xF3 nh\xF3m.
+      T\u1EEB n\xE0o qu\xE9t \u0111\u01B0\u1EE3c nhi\u1EC1u nh\u1EA5t?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561156
+    m_Localized: "M\xE0n vui: th\u1EE9 g\xEC <b>bi\u1EBFt bay</b>? Coi ch\u1EEBng
+      c\xF3 m\xF3n b\u1EA5t ng\u1EDD."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561157
+    m_Localized: "M\u1EDF kh\xF3a <b>n\u01A1i ch\u1ED1n</b>: nh\xE0 b\u1EBFp, bi\u1EC3n,
+      b\u1EA7u tr\u1EDDi, khu v\u01B0\u1EDDn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561158
+    m_Localized: "M\xE0n ngh\u1EC9. Th\u01B0 gi\xE3n v\xE0 qu\xE9t th\u1EADt nhi\u1EC1u
+      nh\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561159
+    m_Localized: "M\u1EDF kh\xF3a th\xEAm nh\xF3m: <b>qu\u1EA7n \xE1o, xe c\u1ED9,
+      \u0111\u1ED3 d\xF9ng</b>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561160
+    m_Localized: "M\xE0n vui: th\u1EE9 g\xEC <b>k\xEAu to</b>?"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

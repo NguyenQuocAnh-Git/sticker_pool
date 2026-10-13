@@ -1,0 +1,1270 @@
+[
+  {
+    "id": "tao",
+    "name": "Táo",
+    "color": "Đỏ",
+    "color_hex": "#e5383b",
+    "group": "Đồ ăn",
+    "place": null,
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Đỏ",
+      "Đồ ăn"
+    ],
+    "svg": "stickers/svg/tao.svg",
+    "png": "stickers/png/tao.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 20.63,
+      "center_svg_units": [
+        31.9,
+        34.4
+      ]
+    }
+  },
+  {
+    "id": "dau-tay",
+    "name": "Dâu tây",
+    "color": "Đỏ",
+    "color_hex": "#e5383b",
+    "group": "Đồ ăn",
+    "place": null,
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Đỏ",
+      "Đồ ăn"
+    ],
+    "svg": "stickers/svg/dau-tay.svg",
+    "png": "stickers/png/dau-tay.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 19.71,
+      "center_svg_units": [
+        31.9,
+        33.3
+      ]
+    }
+  },
+  {
+    "id": "o-to",
+    "name": "Ô tô",
+    "color": "Đỏ",
+    "color_hex": "#e5383b",
+    "group": "Xe cộ",
+    "place": null,
+    "funny": [
+      "Kêu to"
+    ],
+    "material": "Kim loại",
+    "all_tags": [
+      "Đỏ",
+      "Xe cộ",
+      "Kêu to",
+      "Kim loại"
+    ],
+    "svg": "stickers/svg/o-to.svg",
+    "png": "stickers/png/o-to.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 20.61,
+      "center_svg_units": [
+        32,
+        35.5
+      ]
+    }
+  },
+  {
+    "id": "bong-bay",
+    "name": "Bóng bay",
+    "color": "Đỏ",
+    "color_hex": "#e5383b",
+    "group": "Đồ chơi",
+    "place": "Bầu trời",
+    "funny": [
+      "Biết bay"
+    ],
+    "material": "Cao su",
+    "all_tags": [
+      "Đỏ",
+      "Đồ chơi",
+      "Bầu trời",
+      "Biết bay",
+      "Cao su"
+    ],
+    "svg": "stickers/svg/bong-bay.svg",
+    "png": "stickers/png/bong-bay.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 19.34,
+      "center_svg_units": [
+        31.8,
+        25.9
+      ]
+    }
+  },
+  {
+    "id": "bo-rua",
+    "name": "Bọ rùa",
+    "color": "Đỏ",
+    "color_hex": "#e5383b",
+    "group": "Con vật",
+    "place": "Khu vườn",
+    "funny": [
+      "Biết bay"
+    ],
+    "material": null,
+    "all_tags": [
+      "Đỏ",
+      "Con vật",
+      "Khu vườn",
+      "Biết bay"
+    ],
+    "svg": "stickers/svg/bo-rua.svg",
+    "png": "stickers/png/bo-rua.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 20.18,
+      "center_svg_units": [
+        31.9,
+        35
+      ]
+    }
+  },
+  {
+    "id": "cua",
+    "name": "Cua",
+    "color": "Đỏ",
+    "color_hex": "#e5383b",
+    "group": "Con vật",
+    "place": "Biển",
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Đỏ",
+      "Con vật",
+      "Biển"
+    ],
+    "svg": "stickers/svg/cua.svg",
+    "png": "stickers/png/cua.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 23.89,
+      "center_svg_units": [
+        31.9,
+        34
+      ]
+    }
+  },
+  {
+    "id": "trong",
+    "name": "Trống",
+    "color": "Đỏ",
+    "color_hex": "#e5383b",
+    "group": "Đồ chơi",
+    "place": null,
+    "funny": [
+      "Kêu to"
+    ],
+    "material": "Gỗ",
+    "all_tags": [
+      "Đỏ",
+      "Đồ chơi",
+      "Kêu to",
+      "Gỗ"
+    ],
+    "svg": "stickers/svg/trong.svg",
+    "png": "stickers/png/trong.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 22.81,
+      "center_svg_units": [
+        31.9,
+        34.5
+      ]
+    }
+  },
+  {
+    "id": "khan-len",
+    "name": "Khăn len",
+    "color": "Đỏ",
+    "color_hex": "#e5383b",
+    "group": "Quần áo",
+    "place": null,
+    "funny": [],
+    "material": "Vải",
+    "all_tags": [
+      "Đỏ",
+      "Quần áo",
+      "Vải"
+    ],
+    "svg": "stickers/svg/khan-len.svg",
+    "png": "stickers/png/khan-len.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 22.62,
+      "center_svg_units": [
+        24.8,
+        30
+      ]
+    }
+  },
+  {
+    "id": "qua-cam",
+    "name": "Quả cam",
+    "color": "Cam",
+    "color_hex": "#f48c06",
+    "group": "Đồ ăn",
+    "place": null,
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Cam",
+      "Đồ ăn"
+    ],
+    "svg": "stickers/svg/qua-cam.svg",
+    "png": "stickers/png/qua-cam.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 21.55,
+      "center_svg_units": [
+        32,
+        34.1
+      ]
+    }
+  },
+  {
+    "id": "ca-rot",
+    "name": "Cà rốt",
+    "color": "Cam",
+    "color_hex": "#f48c06",
+    "group": "Đồ ăn",
+    "place": "Khu vườn",
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Cam",
+      "Đồ ăn",
+      "Khu vườn"
+    ],
+    "svg": "stickers/svg/ca-rot.svg",
+    "png": "stickers/png/ca-rot.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 16.66,
+      "center_svg_units": [
+        31.9,
+        27.7
+      ]
+    }
+  },
+  {
+    "id": "bong-ro",
+    "name": "Bóng rổ",
+    "color": "Cam",
+    "color_hex": "#f48c06",
+    "group": "Đồ chơi",
+    "place": null,
+    "funny": [],
+    "material": "Cao su",
+    "all_tags": [
+      "Cam",
+      "Đồ chơi",
+      "Cao su"
+    ],
+    "svg": "stickers/svg/bong-ro.svg",
+    "png": "stickers/png/bong-ro.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 22.21,
+      "center_svg_units": [
+        31.9,
+        31.9
+      ]
+    }
+  },
+  {
+    "id": "cao",
+    "name": "Cáo",
+    "color": "Cam",
+    "color_hex": "#f48c06",
+    "group": "Con vật",
+    "place": null,
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Cam",
+      "Con vật"
+    ],
+    "svg": "stickers/svg/cao.svg",
+    "png": "stickers/png/cao.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 20.35,
+      "center_svg_units": [
+        31.9,
+        32.3
+      ]
+    }
+  },
+  {
+    "id": "ca-he",
+    "name": "Cá hề",
+    "color": "Cam",
+    "color_hex": "#f48c06",
+    "group": "Con vật",
+    "place": "Biển",
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Cam",
+      "Con vật",
+      "Biển"
+    ],
+    "svg": "stickers/svg/ca-he.svg",
+    "png": "stickers/png/ca-he.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 19.73,
+      "center_svg_units": [
+        31.9,
+        31.9
+      ]
+    }
+  },
+  {
+    "id": "chiec-dep",
+    "name": "Chiếc dép",
+    "color": "Cam",
+    "color_hex": "#f48c06",
+    "group": "Quần áo",
+    "place": "Biển",
+    "funny": [
+      "Biết bay"
+    ],
+    "material": "Cao su",
+    "all_tags": [
+      "Cam",
+      "Quần áo",
+      "Biển",
+      "Biết bay",
+      "Cao su"
+    ],
+    "svg": "stickers/svg/chiec-dep.svg",
+    "png": "stickers/png/chiec-dep.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 21.55,
+      "center_svg_units": [
+        31.8,
+        30.5
+      ]
+    }
+  },
+  {
+    "id": "cai-coi",
+    "name": "Cái còi",
+    "color": "Cam",
+    "color_hex": "#f48c06",
+    "group": "Đồ chơi",
+    "place": null,
+    "funny": [
+      "Kêu to"
+    ],
+    "material": null,
+    "all_tags": [
+      "Cam",
+      "Đồ chơi",
+      "Kêu to"
+    ],
+    "svg": "stickers/svg/cai-coi.svg",
+    "png": "stickers/png/cai-coi.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 21.07,
+      "center_svg_units": [
+        33.4,
+        33.2
+      ]
+    }
+  },
+  {
+    "id": "tat",
+    "name": "Tất",
+    "color": "Cam",
+    "color_hex": "#f48c06",
+    "group": "Quần áo",
+    "place": null,
+    "funny": [],
+    "material": "Vải",
+    "all_tags": [
+      "Cam",
+      "Quần áo",
+      "Vải"
+    ],
+    "svg": "stickers/svg/tat.svg",
+    "png": "stickers/png/tat.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 22,
+      "center_svg_units": [
+        29.8,
+        34
+      ]
+    }
+  },
+  {
+    "id": "chuoi",
+    "name": "Chuối",
+    "color": "Vàng",
+    "color_hex": "#ffc300",
+    "group": "Đồ ăn",
+    "place": null,
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Vàng",
+      "Đồ ăn"
+    ],
+    "svg": "stickers/svg/chuoi.svg",
+    "png": "stickers/png/chuoi.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 16.63,
+      "center_svg_units": [
+        24.6,
+        33
+      ]
+    }
+  },
+  {
+    "id": "ngoi-sao",
+    "name": "Ngôi sao",
+    "color": "Vàng",
+    "color_hex": "#ffc300",
+    "group": null,
+    "place": "Bầu trời",
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Vàng",
+      "Bầu trời"
+    ],
+    "svg": "stickers/svg/ngoi-sao.svg",
+    "png": "stickers/png/ngoi-sao.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 19.13,
+      "center_svg_units": [
+        31.9,
+        32.1
+      ]
+    }
+  },
+  {
+    "id": "mat-troi",
+    "name": "Mặt trời",
+    "color": "Vàng",
+    "color_hex": "#ffc300",
+    "group": null,
+    "place": "Bầu trời",
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Vàng",
+      "Bầu trời"
+    ],
+    "svg": "stickers/svg/mat-troi.svg",
+    "png": "stickers/png/mat-troi.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 21.89,
+      "center_svg_units": [
+        31.9,
+        31.9
+      ]
+    }
+  },
+  {
+    "id": "mat-trang",
+    "name": "Mặt trăng",
+    "color": "Vàng",
+    "color_hex": "#ffc300",
+    "group": null,
+    "place": "Bầu trời",
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Vàng",
+      "Bầu trời"
+    ],
+    "svg": "stickers/svg/mat-trang.svg",
+    "png": "stickers/png/mat-trang.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 20.96,
+      "center_svg_units": [
+        26.1,
+        36.8
+      ]
+    }
+  },
+  {
+    "id": "chia-khoa",
+    "name": "Chìa khóa",
+    "color": "Vàng",
+    "color_hex": "#ffc300",
+    "group": "Đồ dùng",
+    "place": null,
+    "funny": [],
+    "material": "Kim loại",
+    "all_tags": [
+      "Vàng",
+      "Đồ dùng",
+      "Kim loại"
+    ],
+    "svg": "stickers/svg/chia-khoa.svg",
+    "png": "stickers/png/chia-khoa.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 18.94,
+      "center_svg_units": [
+        28.4,
+        32.6
+      ]
+    }
+  },
+  {
+    "id": "vit-con",
+    "name": "Vịt con",
+    "color": "Vàng",
+    "color_hex": "#ffc300",
+    "group": "Con vật",
+    "place": "Khu vườn",
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Vàng",
+      "Con vật",
+      "Khu vườn"
+    ],
+    "svg": "stickers/svg/vit-con.svg",
+    "png": "stickers/png/vit-con.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 21.09,
+      "center_svg_units": [
+        30.6,
+        37
+      ]
+    }
+  },
+  {
+    "id": "ken",
+    "name": "Kèn",
+    "color": "Vàng",
+    "color_hex": "#ffc300",
+    "group": "Đồ chơi",
+    "place": null,
+    "funny": [
+      "Kêu to"
+    ],
+    "material": "Kim loại",
+    "all_tags": [
+      "Vàng",
+      "Đồ chơi",
+      "Kêu to",
+      "Kim loại"
+    ],
+    "svg": "stickers/svg/ken.svg",
+    "png": "stickers/png/ken.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 18.53,
+      "center_svg_units": [
+        33.9,
+        31
+      ]
+    }
+  },
+  {
+    "id": "bong-den",
+    "name": "Bóng đèn",
+    "color": "Vàng",
+    "color_hex": "#ffc300",
+    "group": "Đồ dùng",
+    "place": null,
+    "funny": [],
+    "material": "Thủy tinh",
+    "all_tags": [
+      "Vàng",
+      "Đồ dùng",
+      "Thủy tinh"
+    ],
+    "svg": "stickers/svg/bong-den.svg",
+    "png": "stickers/png/bong-den.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 21.66,
+      "center_svg_units": [
+        31.9,
+        28.5
+      ]
+    }
+  },
+  {
+    "id": "con-ong",
+    "name": "Con ong",
+    "color": "Vàng",
+    "color_hex": "#ffc300",
+    "group": "Con vật",
+    "place": "Khu vườn",
+    "funny": [
+      "Biết bay"
+    ],
+    "material": null,
+    "all_tags": [
+      "Vàng",
+      "Con vật",
+      "Khu vườn",
+      "Biết bay"
+    ],
+    "svg": "stickers/svg/con-ong.svg",
+    "png": "stickers/png/con-ong.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 22.01,
+      "center_svg_units": [
+        33.3,
+        32.4
+      ]
+    }
+  },
+  {
+    "id": "ech",
+    "name": "Ếch",
+    "color": "Xanh lá",
+    "color_hex": "#38b000",
+    "group": "Con vật",
+    "place": "Khu vườn",
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Xanh lá",
+      "Con vật",
+      "Khu vườn"
+    ],
+    "svg": "stickers/svg/ech.svg",
+    "png": "stickers/png/ech.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 22.22,
+      "center_svg_units": [
+        31.9,
+        35.9
+      ]
+    }
+  },
+  {
+    "id": "dua-leo",
+    "name": "Dưa leo",
+    "color": "Xanh lá",
+    "color_hex": "#38b000",
+    "group": "Đồ ăn",
+    "place": "Nhà bếp",
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Xanh lá",
+      "Đồ ăn",
+      "Nhà bếp"
+    ],
+    "svg": "stickers/svg/dua-leo.svg",
+    "png": "stickers/png/dua-leo.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 18.89,
+      "center_svg_units": [
+        31.9,
+        31.9
+      ]
+    }
+  },
+  {
+    "id": "qua-le",
+    "name": "Quả lê",
+    "color": "Xanh lá",
+    "color_hex": "#38b000",
+    "group": "Đồ ăn",
+    "place": null,
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Xanh lá",
+      "Đồ ăn"
+    ],
+    "svg": "stickers/svg/qua-le.svg",
+    "png": "stickers/png/qua-le.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 18.26,
+      "center_svg_units": [
+        31.9,
+        36.4
+      ]
+    }
+  },
+  {
+    "id": "ung",
+    "name": "Ủng",
+    "color": "Xanh lá",
+    "color_hex": "#38b000",
+    "group": "Quần áo",
+    "place": "Khu vườn",
+    "funny": [],
+    "material": "Cao su",
+    "all_tags": [
+      "Xanh lá",
+      "Quần áo",
+      "Khu vườn",
+      "Cao su"
+    ],
+    "svg": "stickers/svg/ung.svg",
+    "png": "stickers/png/ung.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 22.08,
+      "center_svg_units": [
+        31.2,
+        35.1
+      ]
+    }
+  },
+  {
+    "id": "con-rua",
+    "name": "Con rùa",
+    "color": "Xanh lá",
+    "color_hex": "#38b000",
+    "group": "Con vật",
+    "place": "Biển",
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Xanh lá",
+      "Con vật",
+      "Biển"
+    ],
+    "svg": "stickers/svg/con-rua.svg",
+    "png": "stickers/png/con-rua.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 20.52,
+      "center_svg_units": [
+        33.1,
+        36.5
+      ]
+    }
+  },
+  {
+    "id": "xe-buyt",
+    "name": "Xe buýt",
+    "color": "Xanh lá",
+    "color_hex": "#38b000",
+    "group": "Xe cộ",
+    "place": null,
+    "funny": [
+      "Kêu to"
+    ],
+    "material": "Kim loại",
+    "all_tags": [
+      "Xanh lá",
+      "Xe cộ",
+      "Kêu to",
+      "Kim loại"
+    ],
+    "svg": "stickers/svg/xe-buyt.svg",
+    "png": "stickers/png/xe-buyt.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 25.81,
+      "center_svg_units": [
+        31.9,
+        30.8
+      ]
+    }
+  },
+  {
+    "id": "con-vet",
+    "name": "Con vẹt",
+    "color": "Xanh lá",
+    "color_hex": "#38b000",
+    "group": "Con vật",
+    "place": "Bầu trời",
+    "funny": [
+      "Biết bay",
+      "Kêu to"
+    ],
+    "material": null,
+    "all_tags": [
+      "Xanh lá",
+      "Con vật",
+      "Bầu trời",
+      "Biết bay",
+      "Kêu to"
+    ],
+    "svg": "stickers/svg/con-vet.svg",
+    "png": "stickers/png/con-vet.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 19.94,
+      "center_svg_units": [
+        28.6,
+        34.6
+      ]
+    }
+  },
+  {
+    "id": "ca",
+    "name": "Cá",
+    "color": "Xanh dương",
+    "color_hex": "#1e88e5",
+    "group": "Con vật",
+    "place": "Biển",
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Xanh dương",
+      "Con vật",
+      "Biển"
+    ],
+    "svg": "stickers/svg/ca.svg",
+    "png": "stickers/png/ca.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 19.73,
+      "center_svg_units": [
+        31.9,
+        31.9
+      ]
+    }
+  },
+  {
+    "id": "ao-thun",
+    "name": "Áo thun",
+    "color": "Xanh dương",
+    "color_hex": "#1e88e5",
+    "group": "Quần áo",
+    "place": null,
+    "funny": [],
+    "material": "Vải",
+    "all_tags": [
+      "Xanh dương",
+      "Quần áo",
+      "Vải"
+    ],
+    "svg": "stickers/svg/ao-thun.svg",
+    "png": "stickers/png/ao-thun.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 22.61,
+      "center_svg_units": [
+        31.9,
+        31.2
+      ]
+    }
+  },
+  {
+    "id": "thuyen",
+    "name": "Thuyền",
+    "color": "Xanh dương",
+    "color_hex": "#1e88e5",
+    "group": "Xe cộ",
+    "place": "Biển",
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Xanh dương",
+      "Xe cộ",
+      "Biển"
+    ],
+    "svg": "stickers/svg/thuyen.svg",
+    "png": "stickers/png/thuyen.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 21.45,
+      "center_svg_units": [
+        31.7,
+        37.5
+      ]
+    }
+  },
+  {
+    "id": "chim",
+    "name": "Chim",
+    "color": "Xanh dương",
+    "color_hex": "#1e88e5",
+    "group": "Con vật",
+    "place": "Bầu trời",
+    "funny": [
+      "Biết bay"
+    ],
+    "material": null,
+    "all_tags": [
+      "Xanh dương",
+      "Con vật",
+      "Bầu trời",
+      "Biết bay"
+    ],
+    "svg": "stickers/svg/chim.svg",
+    "png": "stickers/png/chim.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 19.94,
+      "center_svg_units": [
+        28.6,
+        34.6
+      ]
+    }
+  },
+  {
+    "id": "coc-thuy-tinh",
+    "name": "Cốc thủy tinh",
+    "color": "Xanh dương",
+    "color_hex": "#1e88e5",
+    "group": "Đồ dùng",
+    "place": "Nhà bếp",
+    "funny": [],
+    "material": "Thủy tinh",
+    "all_tags": [
+      "Xanh dương",
+      "Đồ dùng",
+      "Nhà bếp",
+      "Thủy tinh"
+    ],
+    "svg": "stickers/svg/coc-thuy-tinh.svg",
+    "png": "stickers/png/coc-thuy-tinh.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 23.17,
+      "center_svg_units": [
+        31.9,
+        30.4
+      ]
+    }
+  },
+  {
+    "id": "buom",
+    "name": "Bướm",
+    "color": "Xanh dương",
+    "color_hex": "#1e88e5",
+    "group": "Con vật",
+    "place": "Khu vườn",
+    "funny": [
+      "Biết bay"
+    ],
+    "material": null,
+    "all_tags": [
+      "Xanh dương",
+      "Con vật",
+      "Khu vườn",
+      "Biết bay"
+    ],
+    "svg": "stickers/svg/buom.svg",
+    "png": "stickers/png/buom.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 24.99,
+      "center_svg_units": [
+        31.9,
+        30.9
+      ]
+    }
+  },
+  {
+    "id": "may-bay",
+    "name": "Máy bay",
+    "color": "Xanh dương",
+    "color_hex": "#1e88e5",
+    "group": "Xe cộ",
+    "place": "Bầu trời",
+    "funny": [
+      "Biết bay",
+      "Kêu to"
+    ],
+    "material": "Kim loại",
+    "all_tags": [
+      "Xanh dương",
+      "Xe cộ",
+      "Bầu trời",
+      "Biết bay",
+      "Kêu to",
+      "Kim loại"
+    ],
+    "svg": "stickers/svg/may-bay.svg",
+    "png": "stickers/png/may-bay.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 21.58,
+      "center_svg_units": [
+        31.9,
+        35.7
+      ]
+    }
+  },
+  {
+    "id": "am-tra",
+    "name": "Ấm trà",
+    "color": "Xanh dương",
+    "color_hex": "#1e88e5",
+    "group": "Đồ dùng",
+    "place": "Nhà bếp",
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Xanh dương",
+      "Đồ dùng",
+      "Nhà bếp"
+    ],
+    "svg": "stickers/svg/am-tra.svg",
+    "png": "stickers/png/am-tra.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 22.93,
+      "center_svg_units": [
+        31.5,
+        34.2
+      ]
+    }
+  },
+  {
+    "id": "gau-bong",
+    "name": "Gấu bông",
+    "color": "Nâu",
+    "color_hex": "#8d5a3b",
+    "group": "Đồ chơi",
+    "place": null,
+    "funny": [],
+    "material": "Vải",
+    "all_tags": [
+      "Nâu",
+      "Đồ chơi",
+      "Vải"
+    ],
+    "svg": "stickers/svg/gau-bong.svg",
+    "png": "stickers/png/gau-bong.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 22.79,
+      "center_svg_units": [
+        31.9,
+        32.4
+      ]
+    }
+  },
+  {
+    "id": "ghe-go",
+    "name": "Ghế gỗ",
+    "color": "Nâu",
+    "color_hex": "#8d5a3b",
+    "group": "Đồ dùng",
+    "place": null,
+    "funny": [],
+    "material": "Gỗ",
+    "all_tags": [
+      "Nâu",
+      "Đồ dùng",
+      "Gỗ"
+    ],
+    "svg": "stickers/svg/ghe-go.svg",
+    "png": "stickers/png/ghe-go.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 20.9,
+      "center_svg_units": [
+        31.9,
+        26.7
+      ]
+    }
+  },
+  {
+    "id": "khuc-go",
+    "name": "Khúc gỗ",
+    "color": "Nâu",
+    "color_hex": "#8d5a3b",
+    "group": null,
+    "place": "Khu vườn",
+    "funny": [],
+    "material": "Gỗ",
+    "all_tags": [
+      "Nâu",
+      "Khu vườn",
+      "Gỗ"
+    ],
+    "svg": "stickers/svg/khuc-go.svg",
+    "png": "stickers/png/khuc-go.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 21.34,
+      "center_svg_units": [
+        31.6,
+        31.9
+      ]
+    }
+  },
+  {
+    "id": "dan-guitar",
+    "name": "Đàn guitar",
+    "color": "Nâu",
+    "color_hex": "#8d5a3b",
+    "group": "Đồ chơi",
+    "place": null,
+    "funny": [],
+    "material": "Gỗ",
+    "all_tags": [
+      "Nâu",
+      "Đồ chơi",
+      "Gỗ"
+    ],
+    "svg": "stickers/svg/dan-guitar.svg",
+    "png": "stickers/png/dan-guitar.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 21.1,
+      "center_svg_units": [
+        29.1,
+        36.1
+      ]
+    }
+  },
+  {
+    "id": "banh-quy",
+    "name": "Bánh quy",
+    "color": "Nâu",
+    "color_hex": "#8d5a3b",
+    "group": "Đồ ăn",
+    "place": "Nhà bếp",
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Nâu",
+      "Đồ ăn",
+      "Nhà bếp"
+    ],
+    "svg": "stickers/svg/banh-quy.svg",
+    "png": "stickers/png/banh-quy.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 22.06,
+      "center_svg_units": [
+        31.9,
+        31.9
+      ]
+    }
+  },
+  {
+    "id": "banh-mi",
+    "name": "Bánh mì",
+    "color": "Nâu",
+    "color_hex": "#8d5a3b",
+    "group": "Đồ ăn",
+    "place": "Nhà bếp",
+    "funny": [],
+    "material": null,
+    "all_tags": [
+      "Nâu",
+      "Đồ ăn",
+      "Nhà bếp"
+    ],
+    "svg": "stickers/svg/banh-mi.svg",
+    "png": "stickers/png/banh-mi.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 23.24,
+      "center_svg_units": [
+        31.9,
+        34.9
+      ]
+    }
+  },
+  {
+    "id": "dong-ho-bao-thuc",
+    "name": "Đồng hồ báo thức",
+    "color": "Nâu",
+    "color_hex": "#8d5a3b",
+    "group": "Đồ dùng",
+    "place": null,
+    "funny": [
+      "Kêu to"
+    ],
+    "material": null,
+    "all_tags": [
+      "Nâu",
+      "Đồ dùng",
+      "Kêu to"
+    ],
+    "svg": "stickers/svg/dong-ho-bao-thuc.svg",
+    "png": "stickers/png/dong-ho-bao-thuc.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 25.42,
+      "center_svg_units": [
+        31.9,
+        31.5
+      ]
+    }
+  },
+  {
+    "id": "con-cho",
+    "name": "Con chó",
+    "color": "Nâu",
+    "color_hex": "#8d5a3b",
+    "group": "Con vật",
+    "place": null,
+    "funny": [
+      "Kêu to"
+    ],
+    "material": null,
+    "all_tags": [
+      "Nâu",
+      "Con vật",
+      "Kêu to"
+    ],
+    "svg": "stickers/svg/con-cho.svg",
+    "png": "stickers/png/con-cho.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 22.25,
+      "center_svg_units": [
+        31.9,
+        33.9
+      ]
+    }
+  },
+  {
+    "id": "muoi-go",
+    "name": "Muôi gỗ",
+    "color": "Nâu",
+    "color_hex": "#8d5a3b",
+    "group": "Đồ dùng",
+    "place": "Nhà bếp",
+    "funny": [],
+    "material": "Gỗ",
+    "all_tags": [
+      "Nâu",
+      "Đồ dùng",
+      "Nhà bếp",
+      "Gỗ"
+    ],
+    "svg": "stickers/svg/muoi-go.svg",
+    "png": "stickers/png/muoi-go.png",
+    "hitbox": {
+      "shape": "circle",
+      "radius_svg_units": 21.21,
+      "center_svg_units": [
+        26.8,
+        26.8
+      ]
+    }
+  }
+]

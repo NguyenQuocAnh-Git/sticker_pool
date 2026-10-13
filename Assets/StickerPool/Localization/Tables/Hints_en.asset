@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Hints_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4d3b9e09c1fe39949b35f8dbd9d3551f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 427589632
+    m_Localized: Pick a color on the tape. Every sticker of that color flies out
+      of the jar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561152
+    m_Localized: Every time you replay, the jar and the choices get shuffled differently.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561153
+    m_Localized: One more color. Pick the color with the most stickers to sweep up
+      a lot.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561154
+    m_Localized: 'Unlocked <b>groups</b>: food, animals, toys.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561155
+    m_Localized: A sticker can have both a color and a group. Which word sweeps the
+      most?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561156
+    m_Localized: 'Fun level: what <b>can fly</b>? Watch out for a surprise.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561157
+    m_Localized: 'Unlocked <b>places</b>: kitchen, sea, sky, garden.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561158
+    m_Localized: A breather level. Relax and sweep up lots of stickers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561159
+    m_Localized: 'More groups unlocked: <b>clothing, vehicles, household</b>.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448561160
+    m_Localized: 'Fun level: what is <b>loud</b>?'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

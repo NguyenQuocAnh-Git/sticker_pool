@@ -1,0 +1,17 @@
+{
+    "name": "StickerPool.Data",
+    "rootNamespace": "StickerPool.Data",
+    "references": [
+        "StickerPool.Model",
+        "Unity.Localization"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
